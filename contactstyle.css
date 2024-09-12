@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+}
+header {
+    justify-content: center;
+    color: white;
+    margin: 0 auto;
+    width: auto;
+    height: 200px;
+    font-size: xx-large;
+    text-align: center;
+    text-shadow: 3cm;
+
+
+}
+.hd{
+    font size: 30px;
+    color: white;
+    margin-left:39%;
+    position:absolute; 
+    margin-top:-180px; 
+}   
+
+.hd:hover {
+    padding: 30px;
+scale: 130%;
+font-size: larger;
+transition: 0.4s;
+display: inline-block;
+color: red;
+cursor: default;
+}
+.kontakt {
+    color: white;
+    width: 40%;
+    height: 20%;
+    border: 1px;
+    border-width: 1px;
+    border-radius: 20px;
+    border-color: white;
+    justify-content: center ;
+    margin-left: 40%;
+    display: inline-block   ;
+}
+.l {
+    box-shadow: rgba(rgba(53, 48, 48, 0.829), rgb(174, 185, 174), rgb(21, 21, 34), alpha);
+    border-width: 2px;
+    border-color: gray  ;
+    background-color: rgb(50, 50, 104);
+    margin-top: 30px;
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    color:white;
+}
+.l:hover {
+    scale: 115%;
+    transition: 0.4s;
+    background-color: black;
+    color:red;
+}
+
+
+
+
